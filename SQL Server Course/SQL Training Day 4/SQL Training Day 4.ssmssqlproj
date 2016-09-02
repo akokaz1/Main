@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Training Day 1">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Training Day 4">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="KG_TRAINING12\KUBRICK:KG_Training12\student12">
-          <Created>2016-08-18T13:17:22.7126065+01:00</Created>
+          <Created>2016-08-31T08:46:22.7494113+01:00</Created>
           <Type>SQL</Type>
           <Server>KG_TRAINING12\KUBRICK</Server>
           <UserName />
@@ -25,6 +25,48 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery1.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery11.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery11.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery15.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery15.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery16.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery16.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery22.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery22.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery23.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery23.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery24.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery24.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery3.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
@@ -37,29 +79,23 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery4.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery5.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery5.sql</FullPath>
-        </FileNode>
         <FileNode Name="SQLQuery6.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery6.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery7.sql">
+        <FileNode Name="SQLQuery79.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery7.sql</FullPath>
+          <FullPath>SQLQuery79.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery8.sql">
+        <FileNode Name="SQLQuery99.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING12\KUBRICK:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>KG_TRAINING12\KUBRICK</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery8.sql</FullPath>
+          <FullPath>SQLQuery99.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

@@ -3,13 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # SQL Server Management Studio Solution File, Format Version 12.00
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Training Day 1", "SQL Training Day 1\SQL Training Day 1.ssmssqlproj", "{CF5BFEA8-7BBC-4CAA-81A3-1CCBC966ED0A}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Training Day 2", "SQL Training Day 2\SQL Training Day 2.ssmssqlproj", "{5BCB83D9-4871-4922-B865-C2197C24CED1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Training Day 3", "SQL Training Day 3\SQL Training Day 3.ssmssqlproj", "{984885A7-E6CE-424F-A5AA-92C5C94C1C2A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Training Day 4", "SQL Training Day 4\SQL Training Day 4.ssmssqlproj", "{BBDF2812-BB4F-4017-B2EE-CD95D7B15DED}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Training Day 5", "SQL Training Day 5\SQL Training Day 5.ssmssqlproj", "{AE822F56-B915-4754-BC04-D3A82C383B96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CF5BFEA8-7BBC-4CAA-81A3-1CCBC966ED0A}.Default|Default.ActiveCfg = Default
-		{DE7AD6EF-4D7C-4EAA-8C96-593FB446814B}.Default|Default.ActiveCfg = Default
+		{5BCB83D9-4871-4922-B865-C2197C24CED1}.Default|Default.ActiveCfg = Default
+		{984885A7-E6CE-424F-A5AA-92C5C94C1C2A}.Default|Default.ActiveCfg = Default
+		{A703D45D-8E93-4324-8C8B-FFD9002FBA9C}.Default|Default.ActiveCfg = Default
+		{BBDF2812-BB4F-4017-B2EE-CD95D7B15DED}.Default|Default.ActiveCfg = Default
+		{AE822F56-B915-4754-BC04-D3A82C383B96}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
