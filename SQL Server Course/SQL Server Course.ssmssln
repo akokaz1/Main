@@ -11,6 +11,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Training Day 4", "SQL T
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Training Day 5", "SQL Training Day 5\SQL Training Day 5.ssmssqlproj", "{AE822F56-B915-4754-BC04-D3A82C383B96}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "PoliceData", "PoliceData\PoliceData.ssmssqlproj", "{1EB4DCC9-E6B7-419C-9C0B-490C977660F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -19,9 +21,10 @@ Global
 		{CF5BFEA8-7BBC-4CAA-81A3-1CCBC966ED0A}.Default|Default.ActiveCfg = Default
 		{5BCB83D9-4871-4922-B865-C2197C24CED1}.Default|Default.ActiveCfg = Default
 		{984885A7-E6CE-424F-A5AA-92C5C94C1C2A}.Default|Default.ActiveCfg = Default
-		{A703D45D-8E93-4324-8C8B-FFD9002FBA9C}.Default|Default.ActiveCfg = Default
 		{BBDF2812-BB4F-4017-B2EE-CD95D7B15DED}.Default|Default.ActiveCfg = Default
 		{AE822F56-B915-4754-BC04-D3A82C383B96}.Default|Default.ActiveCfg = Default
+		{F570099B-D435-4804-81C2-489688FE8F92}.Default|Default.ActiveCfg = Default
+		{1EB4DCC9-E6B7-419C-9C0B-490C977660F3}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
